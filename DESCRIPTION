@@ -1,6 +1,6 @@
 Package: heartdisease
 Type: Package
-Title:Heart Disease
+Title: Heart Disease
 Version: 0.1.0
 Author: Ignacio R.
 Maintainer: Ignacio R <nachoruiz21@gmail.com>
@@ -8,3 +8,5 @@ Description: Gives you the probabilty of having a heart disease depend it of som
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nachorz2/heartdisease
+BugReports: https://github.com/nachorz2/heartdisease/issues
