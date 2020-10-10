@@ -1,0 +1,10 @@
+Package: heartdisease
+Type: Package
+Title:Heart Disease
+Version: 0.1.0
+Author: Ignacio R.
+Maintainer: Ignacio R <nachoruiz21@gmail.com>
+Description: Gives you the probabilty of having a heart disease depend it of some factors.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
